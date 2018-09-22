@@ -1,0 +1,22 @@
+_repo: Raporto-pri-la-oka-kongreso-de-esperantistoj_55574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Katryn, Ned
+    gutenberg_agent_id: '48400'
+    url: http://www.gutenberg.org/2009/agents/48400
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2017-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55574'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- Congresses'
+- GITenberg
+title: Raporto pri la oka kongreso de esperantistoj
+url: http://www.gutenberg.org/ebooks/55574
